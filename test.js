@@ -1,3 +1,4 @@
 function test(){
-  alert('test')
+  window.asd=123
+  alert('testss__')
 }
